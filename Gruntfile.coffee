@@ -7,6 +7,7 @@ module.exports = (grunt) ->
         files: "*"
         options: 
           livereload: true
+          spawn: false
     connect:
       server:
         options:
