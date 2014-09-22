@@ -20,3 +20,6 @@ Very simple set up with grunt to do LiveReload. This means that when you edit a 
 ## Requires
 - npm
 - grunt (`npm install -g grunt`)
+
+## License
+Livereload with Grunt is released under the [MIT License](http://www.opensource.org/licenses/MIT).
